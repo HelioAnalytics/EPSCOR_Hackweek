@@ -17,7 +17,7 @@ A score of 80% or higher means you may want to skip the "beginner" course materi
 ### EPSCOR Hack Week Python Tutorial Schedule
 
 
-| Session | Lecture Topic | Link | Instructor |
+| Session | Lecture Topic | Link | Instructor ||
 |------|---------------|------------------|----------|-----------|
 | Session 1A | **Why Learn Python?** | [Intro Presentation](https://docs.google.com/presentation/d/1A7Gesz8DzXBZ-tRLvcRfsX09E0PTj1RRyCEWcmuc1d0/edit#slide=id.gb98c9bbaa9_0_8) |  |
 | Session 1B | **Intro to Python Notebooks and Code Sharing**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10ra_L1i5zXgx3Z22TMMj0kQNf0-XXf-b#scrollTo=R4KFgMgoN64V) | Thompson |
