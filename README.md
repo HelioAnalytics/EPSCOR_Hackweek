@@ -26,7 +26,7 @@ A score of 80% or higher means you may want to skip the "beginner" course materi
 | Session 2A | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xBSNug29CHYVac_UoADbiJVHO7X2K58q?usp=sharing) |  ||
 | Session 2B | **Basic python modules, packages and libraries** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xBSNug29CHYVac_UoADbiJVHO7X2K58q?usp=sharing) |  ||
 | Session 2C | **File Input/Output**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xBSNug29CHYVac_UoADbiJVHO7X2K58q?usp=sharing) |  ||
-| Session 2D | **Making plots and displaying data**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xBSNug29CHYVac_UoADbiJVHO7X2K58q?usp=sharing) |  |Joey?|
+| Session 2D | **Making plots and displaying data**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xBSNug29CHYVac_UoADbiJVHO7X2K58q?usp=sharing) | Joey? ||
 ||||||
 | | Glossary of python terms | [Link](https://github.com/HelioAnalytics/EPSCOR_Hackweek/blob/master/Course%20Materials/Python_glossary.ipynb)|||
 
