@@ -27,7 +27,7 @@ A score of 80% or higher means you may want to skip the "beginner" course materi
 | Session 2A | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xBSNug29CHYVac_UoADbiJVHO7X2K58q?usp=sharing) |  ||
 | Session 2B | **Basic python modules, packages and libraries** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xBSNug29CHYVac_UoADbiJVHO7X2K58q?usp=sharing) |  ||
 | Session 2C | **File Input/Output**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xBSNug29CHYVac_UoADbiJVHO7X2K58q?usp=sharing) |  ||
-| Session 2D | **Making plots and displaying data**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xBSNug29CHYVac_UoADbiJVHO7X2K58q?usp=sharing) | Licata ||
+| Session 2D | **Making plots and displaying data**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1xBSNug29CHYVac_UoADbiJVHO7X2K58q?usp=sharing](https://colab.research.google.com/drive/1VN57MV8kRBv7VJ4-So5Uy9OvCCpiii1T?usp=sharing)) | Licata ||
 ||||||
 | Session 3A | **What is AI and ML?**  | [ML Intro Presentation](https://docs.google.com/presentation/d/1JpfpuwPg_NZ8CITOkY-Z92a7MIhjHQL9BC0VW3G_vVU/edit?usp=sharing) | Gizzi / Licata ||
 | Session 3B | **Building a Perceptron**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ei7FbDQa7CE3gXILkKtxy170QHqWAUOm?usp=sharing) | Licata ||
