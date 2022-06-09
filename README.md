@@ -2,7 +2,7 @@
 
 Brought to you by: 
 
- ![CfHA](images/cfha_logo.png)  ![NCCS](images/nccs_logo.png) 
+ ![Logo](images/NASAEPSCoR.png)  ![NCCS](images/nccs_logo.png) 
 
 This series of tutorials is part of the 2022 EPSCOR Hack Week (<a href="https://www.nasawvepscor.org/hack-week/">https://www.nasawvepscor.org/hack-week/</a>) held June 12-17, 2022 on the West Virginia University campus in Morgantown, WV.
 
