@@ -7,7 +7,6 @@ Brought to you by:
 This series of tutorials is part of the 2022 EPSCOR Hack Week (<a href="https://www.nasawvepscor.org/hack-week/">https://www.nasawvepscor.org/hack-week/</a>) held June 12-17, 2022 on the West Virginia University campus in Morgantown, WV.
 
 These tutorials are made possible through the support of the NASA GSFC Advanced Software Technology Group.  
-See their extensive python course materials here:    https://github.com/astg606/py_courses/tree/master/modules
 
 To start, you can take the <a href="https://forms.gle/PTV6xFCA21NYkqfp9">Python Assessment Test</a>
 
@@ -41,7 +40,7 @@ A score of 80% or higher means you may want to skip the "beginner" course materi
 
 ## Other Python Course Materials
 
-- Goddard ASTG Python courses (available to Helio community):  
+- Goddard ASTG Python courses:  
     - Python placement test (if you score >80% you may want to skip the beginner courses):  https://docs.google.com/forms/d/e/1FAIpQLSdXdI4yQI0voiZ8AZFYw5yyrXbiZAU87vHJm574PwP9l8IXdA/viewform
     - Beginner Python: https://github.com/astg606/py_courses/tree/master/beginner_python
     - Full Collection of Courses: https://github.com/astg606/py_courses/tree/master/modules
