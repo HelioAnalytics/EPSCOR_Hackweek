@@ -6,7 +6,7 @@ Brought to you by:
 
 This series of tutorials is part of the 2022 EPSCOR Hack Week (<a href="https://www.nasawvepscor.org/hack-week/">https://www.nasawvepscor.org/hack-week/</a>) held June 12-17, 2022 on the West Virginia University campus in Morgantown, WV.
 
-These tutorials are made possible through the support of the NASA GSFC Advanced Software Technology Group.  
+These tutorials are made possible through the support of the NASA GSFC Advanced Software Technology Group and the Center for HelioAnalytics.  
 
 To start, you can take the <a href="https://forms.gle/PTV6xFCA21NYkqfp9">Python Assessment Test</a>
 
@@ -33,9 +33,7 @@ A score of 80% or higher means you may want to skip the "beginner" course materi
 | Session 3C | **Intro to TensorFlow/Keras**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vVx6uv3b78zRHZCc33W4nlMsfFslvAJL?usp=sharing) | Licata ||
 ||||||
 | Supplemental | **Intro to Version Control with git** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/git_tutorial/basic_git_tutorial.ipynb)|||
-| Supplemental | Glossary of python terms | [Link](https://github.com/HelioAnalytics/EPSCOR_Hackweek/blob/master/Course%20Materials/Python_glossary.ipynb)|||
-
-
+| Supplemental | **Glossary of python terms** | [Link](https://github.com/HelioAnalytics/EPSCOR_Hackweek/blob/master/Course%20Materials/Python_glossary.ipynb)|||
 
 
 ## Other Python Course Materials
