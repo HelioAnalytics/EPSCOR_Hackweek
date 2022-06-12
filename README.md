@@ -19,7 +19,7 @@ A score of 80% or higher means you may want to skip the "beginner" course materi
 | Session | Lecture Topic | Link | Instructor |
 |------|---------------|------------------|----------|
 | Session 1A | **Why Learn Python?** | [Intro Presentation](https://docs.google.com/presentation/d/1A7Gesz8DzXBZ-tRLvcRfsX09E0PTj1RRyCEWcmuc1d0/edit#slide=id.gb98c9bbaa9_0_8) | Thompson |
-| Session 1B | **Intro to Python Notebooks and Code Sharing**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qzqSEywi3mColkAusvDy2XFssliq9Owk) | Yifru/Thompson |
+| Session 1B | **Intro to Python Notebooks and Code Sharing**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10ra_L1i5zXgx3Z22TMMj0kQNf0-XXf-b) | Yifru/Thompson |
 | Session 1C | **Basic Data Principles**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qzqSEywi3mColkAusvDy2XFssliq9Owk?usp=sharing) | |
 | Session 1D | **Control Flow and Loops**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GLAn3eduzRaQmKWOONEW3kf0JXOIYAAm?usp=sharing) |  |
 ||||||
