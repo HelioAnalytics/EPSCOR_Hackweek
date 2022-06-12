@@ -16,16 +16,16 @@ A score of 80% or higher means you may want to skip the "beginner" course materi
 ### EPSCOR Hack Week Python Tutorial Schedule
 
 
-| Session | Lecture Topic | Link | Instructor ||
-|------|---------------|------------------|----------|-----------|
+| Session | Lecture Topic | Link | Instructor |
+|------|---------------|------------------|----------|
 | Session 1A | **Why Learn Python?** | [Intro Presentation](https://docs.google.com/presentation/d/1A7Gesz8DzXBZ-tRLvcRfsX09E0PTj1RRyCEWcmuc1d0/edit#slide=id.gb98c9bbaa9_0_8) | Thompson |
 | Session 1B | **Intro to Python Notebooks and Code Sharing**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qzqSEywi3mColkAusvDy2XFssliq9Owk) | Thompson |
-| Session 1C | **Basic Data Principles**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Df05mzLTyJvy-aWXO93RsYCMm6Uj5eFN/view?usp=sharing) | | |
-| Session 1D | **Control Flow and Loops**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GLAn3eduzRaQmKWOONEW3kf0JXOIYAAm?usp=sharing) |  ||
+| Session 1C | **Basic Data Principles**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Df05mzLTyJvy-aWXO93RsYCMm6Uj5eFN/view?usp=sharing) | Yifru/Thompson |
+| Session 1D | **Control Flow and Loops**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GLAn3eduzRaQmKWOONEW3kf0JXOIYAAm?usp=sharing) |  |
 ||||||
-| Session 2A | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YA5qDA82ZWCpkmtpYvjb01xaADwkkCSf?usp=sharing) |  ||
+| Session 2A | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YA5qDA82ZWCpkmtpYvjb01xaADwkkCSf?usp=sharing) |  |
 | Session 2B | **Basic python modules, packages and libraries** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Df05mzLTyJvy-aWXO93RsYCMm6Uj5eFN) |  ||
-| Session 2C | **File Input/Output**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1G9aUA4qMKnYtf1jMKZHD6IE-G1atnd9l?usp=sharing) |  ||
+| Session 2C | **File Input/Output**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1G9aUA4qMKnYtf1jMKZHD6IE-G1atnd9l?usp=sharing) |  |
 | Session 2D | **Making plots and displaying data**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VN57MV8kRBv7VJ4-So5Uy9OvCCpiii1T?usp=sharing) | Licata ||
 ||||||
 | Session 3A | **What is AI and ML?**  | [ML Intro Presentation](https://docs.google.com/presentation/d/1JpfpuwPg_NZ8CITOkY-Z92a7MIhjHQL9BC0VW3G_vVU/edit?usp=sharing) | Gizzi / Licata ||
