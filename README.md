@@ -25,16 +25,16 @@ A score of 80% or higher means you may want to skip the "beginner" course materi
 ||||||
 | Session 2A | **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YA5qDA82ZWCpkmtpYvjb01xaADwkkCSf?usp=sharing) | Yifru |
 | Session 2B | **Basic python modules, packages and libraries** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Df05mzLTyJvy-aWXO93RsYCMm6Uj5eFN) | Yifru |
-| Session 2C | **Making plots and displaying data**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VN57MV8kRBv7VJ4-So5Uy9OvCCpiii1T?usp=sharing) | Licata ||
+| Session 2C | **Making plots and displaying data**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VN57MV8kRBv7VJ4-So5Uy9OvCCpiii1T?usp=sharing) | Licata |
 | Session 2D | **File Input/Output**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1G9aUA4qMKnYtf1jMKZHD6IE-G1atnd9l?usp=sharing) | Thompson |
 ||||||
-| Session 3A | **What is AI and ML?**  | [ML Intro Presentation](https://docs.google.com/presentation/d/1JpfpuwPg_NZ8CITOkY-Z92a7MIhjHQL9BC0VW3G_vVU/edit?usp=sharing) | Gizzi / Licata ||
-| Session 3B | **Building a Perceptron**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ei7FbDQa7CE3gXILkKtxy170QHqWAUOm?usp=sharing) | Licata ||
-| Session 3C | **Intro to TensorFlow/Keras**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vVx6uv3b78zRHZCc33W4nlMsfFslvAJL?usp=sharing) | Licata ||
-| Session 3D | **TensorFlow/Keras MNIST Classifier**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jfvcqz67BpuNf623yAfyuO_v5cJAbJk5?usp=sharing) | Licata ||
-| Session 3E | **K-means Clustering**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ApiMYszey1ruCn70xYpkVxh6rouaJTq0?usp=sharing) | Gizzi ||
+| Session 3A | **What is AI and ML?**  | [ML Intro Presentation](https://docs.google.com/presentation/d/1JpfpuwPg_NZ8CITOkY-Z92a7MIhjHQL9BC0VW3G_vVU/edit?usp=sharing) | Gizzi / Licata |
+| Session 3B | **Building a Perceptron**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ei7FbDQa7CE3gXILkKtxy170QHqWAUOm?usp=sharing) | Licata |
+| Session 3C | **Intro to TensorFlow/Keras**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vVx6uv3b78zRHZCc33W4nlMsfFslvAJL?usp=sharing) | Licata |
+| Session 3D | **TensorFlow/Keras MNIST Classifier**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jfvcqz67BpuNf623yAfyuO_v5cJAbJk5?usp=sharing) | Licata |
+| Session 3E | **K-means Clustering**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ApiMYszey1ruCn70xYpkVxh6rouaJTq0?usp=sharing) | Gizzi |
 ||||||
-| Supplemental | **Intro to Version Control with git** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ApiMYszey1ruCn70xYpkVxh6rouaJTq0?usp=sharing)|||
+| Supplemental | **Intro to Version Control with git** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ApiMYszey1ruCn70xYpkVxh6rouaJTq0?usp=sharing)| online |
 | Supplemental | **Glossary of python terms** | [Link](https://github.com/HelioAnalytics/EPSCOR_Hackweek/blob/master/Course%20Materials/Python_glossary.ipynb)|||
 
 ## Other Python Course Materials
