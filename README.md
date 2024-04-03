@@ -4,7 +4,7 @@ Brought to you by:
 
  ![Logo](images/NASAEPSCoR.png)  ![NCCS](images/nccs_logo.png) 
 
-This series of tutorials is part of the 2022 EPSCOR Hack Week (<a href="https://www.nasawvepscor.org/hack-week/">https://www.nasawvepscor.org/hack-week/</a>) held June 12-17, 2022 on the West Virginia University campus in Morgantown, WV.
+This series of tutorials is part of the <a href="https://www.nasawvepscor.org/wvu-engineers-address-nasas-problems-through-artificial-intelligence">2022 EPSCOR Hack Week</a> held June 12-17, 2022 on the West Virginia University campus in Morgantown, WV.
 
 These tutorials are made possible through the support of the NASA GSFC Advanced Software Technology Group and the Center for HelioAnalytics.  
 
